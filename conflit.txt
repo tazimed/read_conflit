@@ -1,2 +1,6 @@
 hello dd 202
+<<<<<<< HEAD
 modifier fichier localement pour faire un conflit
+=======
+hello world
+>>>>>>> a12e89f2fe0de07a86140d8249f971056adf671f
